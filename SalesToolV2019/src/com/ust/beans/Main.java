@@ -13,6 +13,7 @@ public class Main {
 	public static void displayGreetings()
 	{
 		System.out.println("Sales report 2019");
+		System.out.println("Test1");
 	}
 	
 
